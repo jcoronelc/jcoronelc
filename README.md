@@ -29,12 +29,36 @@ Hierarchical Retrieval + Graph-based system
 - Sentiment Analysis using LLMs
 - Dashboards + predictive models for decision-making
 
+### 🎓 AI Teaching Evaluation Feedback System
+System based on **AI Agents (Google ADK)** for automated teacher evaluation  
+
+→ Collects, analyzes and generates structured feedback  
+→ Improves evaluation processes with LLM-based insights  
+→ Focus on academic quality & decision support  
+
+### 🧠 AI-Powered Software Development (SDD + Agent Skills)
+Development workflow using **AI Agents with SDD (Software Design Document) approach**  
+
+→ Agents assist in design, implementation and validation  
+→ Structured development using **agent skills + modular AI workflows**  
+→ Focus on productivity, automation and scalable software design 
+
 ### 💰 Personal Finance AI App
 - Web app with **LLMs + Knowledge Graphs**
 - Intelligent financial recommendations by whatsapp
 
 ### 📚 AI Syllabus Generator
 LLMs + Guardrails + JSON Schema for postgraduate programs
+
+### 📊 Digital Competencies Analysis (LLMs)
+Automated system to analyze **university syllabi**  
+→ Detection of digital skills across academic programs
+
+### 🚗 Carpooling Web App
+Full-stack application for **trip management & booking**  
+→ Real-time interactions and user coordination
+
+
 
 ---
 
@@ -51,16 +75,14 @@ LLMs + Guardrails + JSON Schema for postgraduate programs
 ## 🧰 Technologies That I Know 👨🏻‍💻
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,postgres,mongodb,git,linux,aws,nginx,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,flask,docker,postgres,mongodb,git,linux" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GraphRAG-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Airflow-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spark-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GoogleADK-000?style=for-the-badge"/>
 </p>
 
 ---
@@ -68,10 +90,10 @@ LLMs + Guardrails + JSON Schema for postgraduate programs
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
-<a href="https://x.com/TU-USUARIO" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/juan-coronelc/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
+<a href="https://x.com/TU-USUARIO](https://x.com/jcoronel80?s=21" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="50" width="50" /></a>
 <a href="mailto:juan.coronelc@ucuenca.edu.ec"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" width="50" /></a>
-<a href="https://github.com/TU-USUARIO"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
+<a href="https://github.com/jcoronelc"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
 </p>
 
 ---
