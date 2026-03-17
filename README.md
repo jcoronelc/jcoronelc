@@ -1,129 +1,104 @@
 <h1 align="center">Hi 👋, I'm Juan José Coronel</h1>
-<h3 align="center">🚀 AI Engineer | Data Scientist | Generative AI Researcher</h3>
+<h3 align="center">🚀 AI Engineer | Generative AI | LLMs | RAG Systems</h3>
+
+<p align="center">
+💡 Building intelligent systems with real-world impact  
+🔬 Generative AI Researcher | 🥇 #1 Computer Science Graduate  
+</p>
 
 ---
 
 ## 🧠 About Me
-💡 Computer Science Engineer specialized in **Data Science & Artificial Intelligence**  
-🥇 Ranked **1st in my class** (Computer Science – University of Cuenca)  
-🔬 Researcher in **Generative AI (ERASMUS+ GENIAL Project)**  
-🤖 Passionate about **LLMs, AI Agents, RAG systems, and real-world AI applications**
-
-- 🔭 Currently working on: **LLM-based intelligent systems & applied research**
-- 🌱 Learning: **Advanced RAG (GraphRAG, Agentic RAG), multi-agent systems**
-- ⚡ Focus: **Building AI systems that create real impact in organizations**
+- 🤖 Focused on **LLMs, RAG, AI Agents, Graph-based systems**
+- 🧪 Experience in **applied AI + research (ERASMUS+ GENIAL)**
+- 🚀 Passion for **innovation, experimentation & real solutions**
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-000?&logo=apachespark)
-![Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+## 🚀 Projects
 
-🧠 **AI / Data Focus**
-- Machine Learning, Deep Learning
-- NLP & Generative AI
-- LLMs (OpenAI, Google AI, local models)
-- RAG, GraphRAG, Fine-tuning
-- AI Agents (CrewAI, Google ADK)
-- Knowledge Graphs
+### 🤖 Multi-Agent AI Chatbot (RAG)
+LLM-based conversational system with **Agentic RAG vs Vanilla RAG**
+
+### 🧠 Intelligent Student Request System
+Hierarchical LLM Retrieval + Graph architecture  
+→ Real-time academic request tracking
+
+### 📬 AI University Mailbox
+LLM system for **classification & prioritization of student needs**
+
+### 📚 AI Syllabus Generator
+LLMs + Guardrails + JSON Schema  
+→ Automated postgraduate curriculum design
+
+### 💰 Finance AI App
+LLMs + Knowledge Graphs for **financial recommendations**
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=dark&show_icons=true&count_private=true" />
+<br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark&hide_border=false" /> 
 
----
+</td>
 
-## 🚀 Featured Projects
+<td width="50%" align="center">
 
-### 🤖 Multi-Agent Conversational AI (RAG)
-- Multi-agent chatbot using **LLMs + RAG architecture**
-- Compared **Vanilla RAG vs Agentic RAG**
-- Context-aware interaction with organizational data
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tu-usuario&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
 
----
+<div align=center>
+<img width=84% src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+</div>
 
-### 🧠 Intelligent Student Request Management System
-- AI system for **university request tracking**
-- Uses **Hierarchical LLM Retrieval + Graph-based architecture**
-- Real-time tracking of academic processes
-- Focus on **automation + decision support**
-
----
-
-### 📬 University Needs Mailbox (AI-powered)
-- Intelligent system to collect and analyze student needs
-- LLM-based classification and prioritization
-- Data-driven insights for institutional decision-making
+</p>
 
 ---
 
-### 📚 Automated Syllabus Generation (Postgraduate Programs)
-- System for **automatic syllabus generation using LLMs**
-- Implemented:
-  - Guardrails
-  - JSON Schema validation
-  - Structured academic outputs
-- Ensures **consistency and quality in curriculum design**
+## 🧰 Technologies That I Know 👨🏻‍💻
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,postgres,mongodb,git,linux,aws,nginx,redis,firebase&perline=14" />
+</p>
 
 ---
 
-### 📊 Hotel Analytics Platform
-- Data platform for **hospitality analytics**
-- Dashboards + predictive models for decision-making
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
+<a href="mailto:juan.coronelc@ucuenca.edu.ec" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" width="50" /></a>
+<a href="https://github.com/tu-usuario" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
+</p>
 
 ---
 
-### 💰 Personal Finance AI App
-- Web app with **LLMs + Knowledge Graphs**
-- Intelligent financial recommendations
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=tu-usuario&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 ---
 
-## 📄 Research & Publications
-📌 Papers under review:
-- *Generative AI in Cybersecurity (Systematic Review)*
-- *Multi-Agent Chatbot with RAG for Conversational AI*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🏢 Experience
-
-### 🔬 Generative AI Researcher  
-**UCuenca – ERASMUS+ GENIAL Project**
-- LLM systems, RAG architectures, AI agents
-- Applied research in real-world scenarios
-
-### ⚙️ Data Engineer Jr  
-**Importadora Tomebamba**
-- ETL pipelines (Spark, Airflow)
-- ML models for business analytics
-- RPA & automation
-
-### 💻 Full-Stack Developer  
-**GVA Studios**
-- Web apps, APIs, microservices
-- Database optimization
-
----
-
-## 🌐 Connect with Me
-- 💼 LinkedIn: [tu link]
-- 📧 Email: juan.coronelc@ucuenca.edu.ec
-
----
-
-## 🧩 Philosophy
 ```bash
 > while(true){
     learn();
     build();
-    experiment();
+    research();
     innovate();
 }
