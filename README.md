@@ -32,16 +32,16 @@ Hierarchical Retrieval + Graph-based system
 ### 🎓 AI Teaching Evaluation Feedback System
 System based on **AI Agents (Google ADK)** for automated teacher evaluation  
 
-→ Collects, analyzes and generates structured feedback  
-→ Improves evaluation processes with LLM-based insights  
-→ Focus on academic quality & decision support  
+- Collects, analyzes and generates structured feedback  
+- Improves evaluation processes with LLM-based insights  
+- Focus on academic quality & decision support  
 
 ### 🧠 AI-Powered Software Development (SDD + Agent Skills)
 Development workflow using **AI Agents with SDD (Software Design Document) approach**  
 
-→ Agents assist in design, implementation and validation  
-→ Structured development using **agent skills + modular AI workflows**  
-→ Focus on productivity, automation and scalable software design 
+- Agents assist in design, implementation and validation  
+- Structured development using **agent skills + modular AI workflows**  
+- Focus on productivity, automation and scalable software design 
 
 ### 💰 Personal Finance AI App
 - Web app with **LLMs + Knowledge Graphs**
@@ -51,12 +51,12 @@ Development workflow using **AI Agents with SDD (Software Design Document) appro
 LLMs + Guardrails + JSON Schema for postgraduate programs
 
 ### 📊 Digital Competencies Analysis (LLMs)
-Automated system to analyze **university syllabi**  
-→ Detection of digital skills across academic programs
+- Automated system to analyze **university syllabi**  
+- Detection of digital skills across academic programs
 
 ### 🚗 Carpooling Web App
-Full-stack application for **trip management & booking**  
-→ Real-time interactions and user coordination
+- Full-stack application for **trip management & booking**
+- Real-time interactions and user coordination
 
 
 
@@ -103,8 +103,6 @@ Full-stack application for **trip management & booking**
 [![](https://visitcount.itsvg.in/api?id=TU-jcoronelc&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
