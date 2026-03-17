@@ -6,7 +6,13 @@
 🔬 Generative AI Researcher | 🥇 #1 Computer Science Graduate  
 </p>
 
----
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=jcoronelc&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 About Me
 - 🤖 Focused on **LLMs, RAG, GraphRAG, AI Agents**
@@ -107,10 +113,3 @@ LLMs + Guardrails + JSON Schema for postgraduate programs
 }
 ```
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=jcoronelc&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
