@@ -1,66 +1,49 @@
-<h1 align="center">Hi 👋, I'm Juan José Coronel</h1>
+<h1 align="center">Hi 👋, I'm Juan Coronel</h1>
 <h3 align="center">🚀 AI Engineer | Generative AI | LLMs | RAG Systems</h3>
 
 <p align="center">
-💡 Building intelligent systems with real-world impact  
+💡 Building intelligent AI systems with real-world impact  
 🔬 Generative AI Researcher | 🥇 #1 Computer Science Graduate  
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🤖 Focused on **LLMs, RAG, AI Agents, Graph-based systems**
-- 🧪 Experience in **applied AI + research (ERASMUS+ GENIAL)**
-- 🚀 Passion for **innovation, experimentation & real solutions**
+- 🤖 Focused on **LLMs, RAG, GraphRAG, AI Agents**
+- 🧪 Applied AI + Research (**ERASMUS+ GENIAL Project**)
+- 🚀 Building **intelligent systems for real-world problems**
 
 ---
 
 ## 🚀 Projects
 
 ### 🤖 Multi-Agent AI Chatbot (RAG)
-LLM-based conversational system with **Agentic RAG vs Vanilla RAG**
+LLMs + Agentic RAG vs Vanilla RAG for contextual interaction
 
 ### 🧠 Intelligent Student Request System
-Hierarchical LLM Retrieval + Graph architecture  
-→ Real-time academic request tracking
+Hierarchical Retrieval + Graph-based system  
+→ Real-time academic tracking
 
-### 📬 AI University Mailbox
-LLM system for **classification & prioritization of student needs**
+### 📊 Hotel Analytics Platform
+- Data platform for **hospitality analytics**
+- Sentiment Analysis using LLMs
+- Dashboards + predictive models for decision-making
+
+### 💰 Personal Finance AI App
+- Web app with **LLMs + Knowledge Graphs**
+- Intelligent financial recommendations by whatsapp
 
 ### 📚 AI Syllabus Generator
-LLMs + Guardrails + JSON Schema  
-→ Automated postgraduate curriculum design
-
-### 💰 Finance AI App
-LLMs + Knowledge Graphs for **financial recommendations**
+LLMs + Guardrails + JSON Schema for postgraduate programs
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=dark&show_icons=true&count_private=true" />
-<br></br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark&hide_border=false" /> 
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tu-usuario&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-</td>
-</tr>
-</table>
-
-<div align=center>
-<img width=84% src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=jcoronelc&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jcoronelc&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcoronelc&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -68,7 +51,16 @@ LLMs + Knowledge Graphs for **financial recommendations**
 ## 🧰 Technologies That I Know 👨🏻‍💻
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,postgres,mongodb,git,linux,aws,nginx,redis,firebase&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,postgres,mongodb,git,linux,aws,nginx,redis,firebase" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphRAG-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Airflow-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spark-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-000?style=for-the-badge"/>
 </p>
 
 ---
@@ -76,16 +68,17 @@ LLMs + Knowledge Graphs for **financial recommendations**
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
-<a href="mailto:juan.coronelc@ucuenca.edu.ec" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" width="50" /></a>
-<a href="https://github.com/tu-usuario" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
+<a href="https://x.com/TU-USUARIO" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="50" width="50" /></a>
+<a href="mailto:juan.coronelc@ucuenca.edu.ec"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" width="50" /></a>
+<a href="https://github.com/TU-USUARIO"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
 </p>
 
 ---
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=tu-usuario&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TU-jcoronelc&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
