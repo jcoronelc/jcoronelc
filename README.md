@@ -18,11 +18,11 @@
 ## 🚀 Projects
 
 ### 🤖 Multi-Agent AI Chatbot (RAG)
-LLMs + Agentic RAG vs Vanilla RAG for contextual interaction
+- LLMs + Agentic RAG vs Vanilla RAG for contextual interaction
 
 ### 🧠 Intelligent Student Request System
-Hierarchical Retrieval + Graph-based system  
-→ Real-time academic tracking
+- Hierarchical Retrieval + Graph-based system  
+- Real-time academic tracking
 
 ### 📊 Hotel Analytics Platform
 - Data platform for **hospitality analytics**
@@ -80,9 +80,9 @@ LLMs + Guardrails + JSON Schema for postgraduate programs
 
 <p align="center">
 <img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphRAG-000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GoogleADK-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context Engineering Techniques-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Langchain-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GoogleADK-000?style=for-the-badge"/>  
 </p>
 
 ---
@@ -91,7 +91,7 @@ LLMs + Guardrails + JSON Schema for postgraduate programs
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-coronelc/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" /></a>
-<a href="https://x.com/TU-USUARIO](https://x.com/jcoronel80?s=21" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="50" width="50" /></a>
+<a href="https://x.com/jcoronel80?s=21" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="50" width="50" /></a>
 <a href="mailto:juan.coronelc@ucuenca.edu.ec"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="50" width="50" /></a>
 <a href="https://github.com/jcoronelc"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" /></a>
 </p>
@@ -100,7 +100,7 @@ LLMs + Guardrails + JSON Schema for postgraduate programs
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=TU-jcoronelc&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jcoronelc&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
