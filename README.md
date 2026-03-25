@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Coronel</h1>
-<h3 align="center">🚀 AI Engineer | Generative AI | LLMs | RAG Systems</h3>
+<h3 align="center">🚀 AI Engineer | Generative AI | LLMs | Context Engineering | AI Agents</h3>
 
 <p align="center">
 💡 Building intelligent AI systems with real-world impact  
