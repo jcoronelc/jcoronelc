@@ -53,6 +53,10 @@ Development workflow using **AI Agents with SDD (Software Design Document) appro
 - Web app with **LLMs + Knowledge Graphs**
 - Intelligent financial recommendations by whatsapp
 
+### 🔧 Bot Builder App
+- A web app that lets individuals and businesses create custom AI chatbots powered by LLMs, RAG and their own data.
+- Allow users to deploy one chatbot across multiple channels (whatsapp, telegram, web link) from a single dashboard.
+
 ### 📚 AI Syllabus Generator
 LLMs + Guardrails + JSON Schema for postgraduate programs
 
