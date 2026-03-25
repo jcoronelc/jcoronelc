@@ -58,7 +58,7 @@ Development workflow using **AI Agents with SDD (Software Design Document) appro
 - Allow users to deploy one chatbot across multiple channels (whatsapp, telegram, web link) from a single dashboard.
 
 ### 📚 AI Syllabus Generator
-LLMs + Guardrails + JSON Schema for postgraduate programs
+- A system that automatically generates complete postgraduate syllabi from a program description using LLMs, structured outputs, and strict validation.
 
 ### 📊 Digital Competencies Analysis (LLMs)
 - Automated system to analyze **university syllabi**  
